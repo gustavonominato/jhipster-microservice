@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "br.com.service"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "microservice",
+    "baseName": "service",
+    "packageName": "br.com.service",
+    "packageFolder": "br/com/service",
+    "serverPort": "8088",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NjQ1Y2VhYTM2ZDQzNTdhNTdmMmRjZjQxNTM4NTIxZTZmZTI4MjRhNmNlMWUxYWZhOWQzM2QzNjRjOTlkZDY0MzZhNzM3NjBhNDU1MTA0NjA5MjUzZTQwOTExNGMwN2I4OGNkNzMyN2NkZDAwMjAxZjM1ZWJkZjA3OWZmODYyZTQ=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1595365116986,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
