@@ -1,4 +1,4 @@
-# service
+# JHipster-microservice
 
 This application was generated using JHipster 6.7.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.7.1](https://www.jhipster.tech/documentation-archive/v6.7.1).
 
@@ -15,6 +15,8 @@ To start JHipster-Registry, run:
 To start your application in the dev profile, run:
 
     ./mvnw
+    
+The application will start on port 8088
 
 For further instructions on how to develop with JHipster, have a look at [Using JHipster in development][].
 
